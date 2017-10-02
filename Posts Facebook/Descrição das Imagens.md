@@ -241,18 +241,28 @@
 	Compartilhamentos: 56.435
 	Comentários: 22.443 mil
 
-01/03/2017 - 
-	Link:
-	Tipo: 	
+16/03/2017 - Galera de Floripa, tem festa redonda aberta ao público para comemorar o aniversário da cidade.
+	Link: https://www.facebook.com/events/1845104305757015/
+	Tipo: Evento	
 	Visualizações: não_disponível
-	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
-	Compartilhamentos: 0
-	Comentários: 0
+	Reações: 189 Likes - 3 Amei - 0 Uau - 1 Haha - 2 Triste - 0 Grr 
+	Compartilhamentos: não_disponível
+	Comentários: 26
 
-	01/03/2017 - 
-	Link:
-	Tipo: 	
-	Visualizações: não_disponível
-	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
-	Compartilhamentos: 0
-	Comentários: 0
+	23/03/2017 - Vídeo com imagens de pessoas de todas as idades curtindo o Lollapalooza Brasil. 
+	Link: https://www.facebook.com/skol/videos/10155227392342958/
+	Tipo: vídeo	
+	Visualizações: 649 mil
+	Reações: 6.8 mil Likes - 376 Amei - 24 Uau - 50 Haha - 10 Triste - 20 Grr 
+	Compartilhamentos: 450
+	Comentários: 266
+
+	***Muitos posts do festival Lolla. Nenhuma referencia a campanha Reposter durante esse período.
+
+23/03/2017 - Skol + MOOC apresentam: Skolors. Uma edição especial de latas nas cores da nossa pele.
+	Link: https://www.facebook.com/skol/videos/10155264263162958/
+	Tipo: vídeo	
+	Visualizações: 5.4 mil
+	Reações: 39 mil mil Likes - 17 mil Amei - 2 mil Uau - 189 Haha - 30 Triste - 163 Grr - 5 Arco-iris - 2 Gratidão
+	Compartilhamentos: 21.550
+	Comentários: 8.986
