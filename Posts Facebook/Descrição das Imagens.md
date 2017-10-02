@@ -225,21 +225,21 @@
 	Compartilhamentos: 604
 	Comentários: 136
 
-	01/03/2017 - 
-	Link:
-	Tipo: 	
+	02/03/2017 - mostra pessoas felizes, sorrindo, com os braços para cima comemorando o carnaval redondo
+	Link: https://www.facebook.com/skol/posts/10155158315912958
+	Tipo: Gif
 	Visualizações: não_disponível
-	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
-	Compartilhamentos: 0
-	Comentários: 0
+	Reações: 11 mil Likes - 218 Amei - 22 Uau - 101 Haha - 7 Triste - 12 Grr 
+	Compartilhamentos: 249
+	Comentários: 192
 
-	01/03/2017 - 
-	Link:
-	Tipo: 	
-	Visualizações: não_disponível
-	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
-	Compartilhamentos: 0
-	Comentários: 0
+	08/03/2017 - *** POST OFICIAL *** Já faz alguns anos que algumas imagens do passado não nos representam mais. O mundo evoluiu e a Skol também. Convidamos ilustradoras e artistas plásticas para recriar pôsteres antigos de Skol sob um novo olhar. Porque lugar de mulher é onde e como ela quiser. Redondo é sair do seu passado. Conheça todos os pôsters em skol.com.br/reposter
+	Link: https://www.facebook.com/skol/videos/10155178125107958/
+	Tipo: vídeo
+	Visualizações: 7.8 mil
+	Reações: 158 mil Likes - 51 mil Amei - 4.6 mil Uau - 725 Haha - 211 Triste - 872 Grr - 4 arco-iris
+	Compartilhamentos: 56.435
+	Comentários: 22.443 mil
 
 01/03/2017 - 
 	Link:
