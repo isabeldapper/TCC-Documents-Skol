@@ -185,7 +185,47 @@
 	Compartilhamentos: 175
 	Comentários: 106
 
-	01/01/2017 - 
+	01/02/2017 - Um gif que mostra a silhueta de uma garrafa de Skol num cenário que parece um escritório. Uma Skol fica passando na frente e é preciso pausar o gif para encaixá-la na silhueta. Quando isso acontece, o cenário vira uma mesa com uma piscina trás e um óculos de Sol.
+	Link: https://www.facebook.com/skol/posts/10155069087242958
+	Tipo: Gif
+	Visualizações: não_disponível
+	Reações: 13 mil Likes - 399 Amei - 68 Uau - 416 Haha - 5 Triste - 11 Grr 
+	Compartilhamentos: 3.516
+	Comentários: 3.639
+
+	04/02/2017 - Na imagem uma moça sorri segurando uma Skol. A modelo em questão tem vitiligo.
+	Link: https://www.facebook.com/skol/posts/10155078544977958
+	Tipo: Gif
+	Visualizações: não_disponível
+	Reações: 1.9 mil Likes - 146 Amei - 8 Uau - 14 Haha - 1 Triste - 4 Grr 
+	Compartilhamentos: 95
+	Comentários: 108
+
+	15/02/2017 - Essa é a marchinha do Carnaval Redondo. Sai do quadrado, aumente o som, decora aí e bora que a rua tá te esperando.
+	Link:https://www.facebook.com/skol/videos/10155110694712958/
+	Tipo: vídeo
+	Visualizações: 1.2 mil
+	Reações: 16 mil Likes - 482 Amei - 33 Uau - 276 Haha - 8 Triste - 16 Grr 
+	Compartilhamentos: 1.560
+	Comentários: 337
+
+	20/02/2017 - Ei, você! O carnaval tá aí, vai curtir ou vai fugir? Pra você é carnaval ou feriado? Não importa. O que vale é aproveitar e respeitar a escolha de cada um. Carnaval Skol. Redondo é sair do seu quadrado. 
+	Link: https://www.facebook.com/skol/videos/10155109397327958/
+	Tipo: vídeo	
+	Visualizações: 20 mil
+	Reações: 165 mil Likes - 3.7 mil Amei - 667 Uau - 2.1 mil Haha - 136 Triste - 323 Grr 
+	Compartilhamentos: 9.109
+	Comentários: 5.953
+
+	23/02/2017 - Um rádio muda de sintonia e mostra escrito o ritmo da marchinha que está tocando e fotos de foliões curtindo o carnaval.
+	Link: https://www.facebook.com/skol/videos/10155137791787958/
+	Tipo: vídeo
+	Visualizações: 418 mil
+	Reações: 5.4 mil Likes - 102 Amei - 13 Uau - 63 Haha - 3 Triste - 4 Grr 
+	Compartilhamentos: 604
+	Comentários: 136
+
+	01/03/2017 - 
 	Link:
 	Tipo: 	
 	Visualizações: não_disponível
@@ -193,7 +233,7 @@
 	Compartilhamentos: 0
 	Comentários: 0
 
-	01/01/2017 - 
+	01/03/2017 - 
 	Link:
 	Tipo: 	
 	Visualizações: não_disponível
@@ -201,7 +241,7 @@
 	Compartilhamentos: 0
 	Comentários: 0
 
-	01/01/2017 - 
+01/03/2017 - 
 	Link:
 	Tipo: 	
 	Visualizações: não_disponível
@@ -209,15 +249,7 @@
 	Compartilhamentos: 0
 	Comentários: 0
 
-	01/01/2017 - 
-	Link:
-	Tipo: 	
-	Visualizações: não_disponível
-	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
-	Compartilhamentos: 0
-	Comentários: 0
-
-	01/01/2017 - 
+	01/03/2017 - 
 	Link:
 	Tipo: 	
 	Visualizações: não_disponível
