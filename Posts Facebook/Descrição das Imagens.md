@@ -113,12 +113,114 @@
 	Compartilhamentos: 66
 	Comentários: 17
 
-	23/12/2016 - 
+	01/01/2017 - No vídeo, 3 latas de Skol "flutuam". Logo acima, há um texto, que diz "A-CA-BOU. Em 2017, saia do seu quadrado".
+	Link: https://www.facebook.com/skol/videos/10154957287227958/
+	Tipo: vídeo	
+	Visualizações: 22 mil
+	Reações: 707 Likes - 15 Amei - 0 Uau - 15 Haha - 0 Triste - 0 Grr 
+	Compartilhamentos: 154
+	Comentários: 40
+
+	02/01/2017 - Uma menina com uma prótese na perna está praticando a modalidade esportiva Slackline - se equilibrando em uma fita - em uma praia. Na imagem está escrito: "Verão sem padrão. Verão com diversão".
+	Link: https://www.facebook.com/skol/posts/10154950661917958:0
+	Tipo: Imagem
+	Visualizações: não_disponível
+	Reações: 8.9 mil Likes - 315 Amei - 68 Uau - 15 Haha - 4 Triste - 4 Grr 
+	Compartilhamentos: 218
+	Comentários: 121
+
+	05/01/2017 - três senhoras na praia com colares, óculos de sol e chapéus fazem um brinde com Skol e gargalham animadas.
+	Link: https://www.facebook.com/skol/posts/10154977039422958
+	Tipo: Gif
+	Visualizações: não_disponível
+	Reações: 1.2 mil Likes - 36 Amei - 3 Uau - 22 Haha - 2 Triste - 0 Grr 
+	Compartilhamentos: 109
+	Comentários: 52
+
+05/01/2017 - o locutor pergunta "vergonha de quê?", seguindo o vídeo com a explosão de uma placa mostrando corpos tidos como padrão. Após esse simbólico rompimento, o locutor continua sua fala sugerindo que pessoas curtam o verão sem se preocupar com padrões estéticos. 
+	Link:https://www.facebook.com/skol/videos/10154980059947958/
+	Tipo: vídeo	
+	Visualizações: 190 mil
+	Reações: 3.8 mil Likes - 175 Amei - 15 Uau - 41 Haha - 2 Triste - 2 Grr 
+	Compartilhamentos: 441
+	Comentários: 146
+
+	11/01/2017 -  De um lado, metade de um estojo de maquiagem e do outro, metade de uma bola sendo segurada por uma menina negra na praia. Acima o texto: com ou sem maquiagem, brilho é curtir o verão.
+	Link: https://www.facebook.com/skol/posts/10154997110302958:0
+	Tipo: Imagem
+	Visualizações: não_disponível
+	Reações: 1 mil Likes - 17 Amei - 2 Uau - 4 Haha - 2 Triste - 0 Grr 
+	Compartilhamentos: 11
+	Comentários: 38
+
+	16/01/2017 - Um rapaz magro brinca de mostrar o muque. Ele está com uma Skol na mão e uma boia na cintura. Ao lado, o texto "No verão, só se esconde quem quiser ficar debaixo do guarda-sol".
+	Link: https://www.facebook.com/skol/posts/10155014574812958:0
+	Tipo: Imagem	
+	Visualizações: não_disponível
+	Reações: 413 Likes - 20 Amei - 2 Uau - 1 Haha - 1 Triste - 0 Grr 
+	Compartilhamentos: 27
+	Comentários: 28
+
+	26/01/2017 - Do lado esquerdo, metade do rosto de um rapaz no escritório com óculos de grau. Do lado direito, a outra metade do rosto do mesmo rapaz, com óculos de sol numa praia. Ao lado, o texto "Saia da rotina e se joga no verão". Do outro lado, um selo Skol escrito "desce redondo"
+	Link: https://www.facebook.com/skol/posts/10155051396812958:0
+	Tipo: Imagem
+	Visualizações: não_disponível
+	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
+	Compartilhamentos: 59
+	Comentários: 53
+
+	01/01/2017 - O título da peça é "que dancinha te tira do quadrado?". Embaixo tem 3 quadros e cada um com uma cena para votação com as reactions. O "coração" é para o "Dancinha com Crush", em que um casal dança, o "like" é para dancinha no ar em que um dançarinho dá um mortal e o "risada" é para a dancinha sensual em que uma moça dança com uma latinha de Skol.
+	Link: https://www.facebook.com/skol/posts/10155053665137958
+	Tipo: Gif
+	Visualizações: não_disponível
+	Reações: 3.1 Likes - 426 Amei - 11 Uau - 341 Haha - 3 Triste - 4 Grr 
+	Compartilhamentos: 73
+	Comentários: 74
+
+	31/01/2017 - Uma moça de maiô ao lado de uma prancha sorri com uma garrafa de Skol na mão. Ao lado, o texto "meu fechamento é você, verão". Do outro lado, um selo Skol escrito "desce redondo".
+	Link:https://www.facebook.com/skol/posts/10155065535902958:0
+	Tipo: Imagem
+	Visualizações: não_disponível
+	Reações: 5.3 mil Likes - 117 Amei - 21 Uau - 41 Haha - 3 Triste - 3 Grr - 1 arco-iris
+	Compartilhamentos: 175
+	Comentários: 106
+
+	01/01/2017 - 
 	Link:
 	Tipo: 	
 	Visualizações: não_disponível
 	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
 	Compartilhamentos: 0
 	Comentários: 0
-	
 
+	01/01/2017 - 
+	Link:
+	Tipo: 	
+	Visualizações: não_disponível
+	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
+	Compartilhamentos: 0
+	Comentários: 0
+
+	01/01/2017 - 
+	Link:
+	Tipo: 	
+	Visualizações: não_disponível
+	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
+	Compartilhamentos: 0
+	Comentários: 0
+
+	01/01/2017 - 
+	Link:
+	Tipo: 	
+	Visualizações: não_disponível
+	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
+	Compartilhamentos: 0
+	Comentários: 0
+
+	01/01/2017 - 
+	Link:
+	Tipo: 	
+	Visualizações: não_disponível
+	Reações: 0 Likes - 0 Amei - 0 Uau - 0 Haha - 0 Triste - 0 Grr 
+	Compartilhamentos: 0
+	Comentários: 0
