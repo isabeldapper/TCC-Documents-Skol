@@ -169,7 +169,7 @@
 	Compartilhamentos: 59
 	Comentários: 53
 
-	01/01/2017 - O título da peça é "que dancinha te tira do quadrado?". Embaixo tem 3 quadros e cada um com uma cena para votação com as reactions. O "coração" é para o "Dancinha com Crush", em que um casal dança, o "like" é para dancinha no ar em que um dançarinho dá um mortal e o "risada" é para a dancinha sensual em que uma moça dança com uma latinha de Skol.
+	27/01/2017 - O título da peça é "que dancinha te tira do quadrado?". Embaixo tem 3 quadros e cada um com uma cena para votação com as reactions. O "coração" é para o "Dancinha com Crush", em que um casal dança, o "like" é para dancinha no ar em que um dançarinho dá um mortal e o "risada" é para a dancinha sensual em que uma moça dança com uma latinha de Skol.
 	Link: https://www.facebook.com/skol/posts/10155053665137958
 	Tipo: Gif
 	Visualizações: não_disponível
@@ -259,7 +259,7 @@
 
 	***Muitos posts do festival Lolla. Nenhuma referencia a campanha Reposter durante esse período.
 
-23/03/2017 - Skol + MOOC apresentam: Skolors. Uma edição especial de latas nas cores da nossa pele.
+04/04/2017 - Skol + MOOC apresentam: Skolors. Uma edição especial de latas nas cores da nossa pele.
 	Link: https://www.facebook.com/skol/videos/10155264263162958/
 	Tipo: vídeo	
 	Visualizações: 5.4 mil
