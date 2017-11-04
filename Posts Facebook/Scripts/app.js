@@ -1,6 +1,4 @@
-const fs = require('fs');
-
-
+const save = require('./save');
 
 const reposter = require('./reposter');
 const posts = require('./skol');
@@ -29,9 +27,7 @@ posts.map(post => ({
    }
 });
 
-let json=JSON.stringify([...map]);
-console.info('json', json);
-fs.writeFile('result.json', json, 'utf8');
+save([...map], 'result.json');
 
 console.info('posts', posts.length);
 console.info('reposter', reposter.length);
