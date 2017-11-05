@@ -1,4 +1,8 @@
+// documentação insights
 // https://developers.facebook.com/docs/graph-api/reference/v2.5/insights
+
+// ferramenta de criação de gráfico
+// https://plot.ly/create/?fid=robsonrosa:1
 
 const save = require('./save');
 const fs = require('fs');
